@@ -2,6 +2,9 @@
 
 In this repository I have stored few of my SketchUp drawings I designed.
 
+### Best Poster Presentation Concept- Master's
+<img src= "images/BIPV%20concept.png" width="500"  > 
+
 ### Ground-Mounted Bifacial PV System
 <img src= "images/Screenshot 2020-06-29 at 17.31.40.png" width="500"  > 
 
