@@ -1,6 +1,6 @@
 # skechup_designing
 
-In this repository I have stored few of my SketchUp drawings I designed.
+## In this repository I have stored few of my SketchUp drawings I designed.
 
 ### Best Poster Presentation Concept- Master's
 <img src= "images/BIPV%20concept.png" width="500"  > 
